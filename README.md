@@ -4,6 +4,8 @@
 
 A simple **Tic Tac Toe** game built using **pure Python**, playable entirely in the **console**. This is a two-player game where players take turns entering positions on the board. No external libraries or GUI frameworks required!
 
+I also made it that **the numbers in the numpad are the same position you select in the box**.
+
 ---
 
 ## 🖥️ Demo
